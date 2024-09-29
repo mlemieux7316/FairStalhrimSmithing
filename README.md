@@ -1,2 +1,8 @@
 # FairStalhrimSmithing
-Simple Skyrim mod that allows you to additionally smith Stalhrim weapons and armor if you have the Glass Smithing perk
+Super Simple Perk Mod #2 (maybe I should start a series? :P)
+
+This is a Simple Skyrim mod that allows you to additionally smith Stalhrim weapons and armor if you have the Glass Smithing perk. You will still need to have completed the related quest, and the Ebony Smithing perk will still allow you to smith Stalhrim stuff; adding glass smithing as an "OR" alternative to the ebony smithing recipe requirement for all vanilla Dragonborn DLC Stalhrim items.
+
+Stalhrim smithing allows you to craft some of the best light armor in the Dragonborn DLC (and the entire vanilla game); yet, you will likely first encounter this new ability when you are either pursuing the heavy armor path up the smithing perk tree, in which case you have no need for the light armor, or (worse) you pursued light armor in the perk tree, and now you'll pretty much need to reach 100 smithing to make it legendary and switch over to heavy armor smithing...then make your items and legendary again to switch it back over??? I'm honestly not sure what the developers had in mind, but if you'd like the freedom to choose to make Stalhrim light armor when you are a skilled smith in light armor and completed the questline for discovering Stalhrim, then this is your mod (more immersive anyways, imo).
+
+This is also a good spot for some promo for my other mod, "Perk Wrap", that allows you to invest in any perk that is adjacent to another perk you invested in (allowing you to wrap around the looped trees, rather than starting from the bottom or forcing legendary for one or two perks). It works well with this mod, working towards the same thing.
